@@ -8,6 +8,7 @@
     "target": "es6",
     "lib": ["esnext"],
     "moduleResolution": "Node",
+    "resolveJsonModule": true,
     "esModuleInterop": true,
     "module": "CommonJS"
   }
