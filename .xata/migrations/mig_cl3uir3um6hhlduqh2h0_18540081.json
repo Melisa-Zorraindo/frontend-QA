@@ -1,0 +1,16 @@
+{
+  "id": "mig_cl3uir3um6hhlduqh2h0",
+  "parentID": "mig_cl3uipvl0tenicl7ftug",
+  "checksum": "1:1854008182dfc09f5d33666353a70b266de57b745f48210904c492c518ec451b",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "b",
+          "type": "text"
+        },
+        "table": "choices"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "mig_cl48am7l0tenicl7gr4g",
+  "parentID": "mig_cl48ae3um6hhlduqi34g",
+  "checksum": "1:2c92edd4a210f5ada6e3acab5621feeacd1e8fdec4bb665f78747d4cfeb2a76f",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "statement",
+          "type": "text"
+        },
+        "table": "Questions"
+      }
+    }
+  ]
+}

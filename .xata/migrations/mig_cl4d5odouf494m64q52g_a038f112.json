@@ -1,0 +1,16 @@
+{
+  "id": "mig_cl4d5odouf494m64q52g",
+  "parentID": "mig_cl4d5lu5v6fjuni057qg",
+  "checksum": "1:a038f112761ceb05107b68a46439dbc02d0bbfc50580c39798e0ae1a16d2575c",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "choices",
+          "type": "multiple"
+        },
+        "table": "test"
+      }
+    }
+  ]
+}

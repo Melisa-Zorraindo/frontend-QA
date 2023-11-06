@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://codeNest-l30ngi.eu-central-1.xata.sh/db/frontend-QA",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
