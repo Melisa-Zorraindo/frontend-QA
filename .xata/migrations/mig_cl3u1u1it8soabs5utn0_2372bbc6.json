@@ -1,0 +1,16 @@
+{
+  "id": "mig_cl3u1u1it8soabs5utn0",
+  "parentID": "mig_cl3u1p1it8soabs5utm0",
+  "checksum": "1:2372bbc67d18ae4e5748029a9bd23b18f9f016acebf3e920bd87080e5a61089f",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "correct_choice",
+          "type": "string"
+        },
+        "table": "questions"
+      }
+    }
+  ]
+}

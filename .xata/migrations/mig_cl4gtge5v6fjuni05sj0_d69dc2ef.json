@@ -1,0 +1,12 @@
+{
+  "id": "mig_cl4gtge5v6fjuni05sj0",
+  "parentID": "mig_cl4gqim5v6fjuni05rig",
+  "checksum": "1:d69dc2ef1b65f2e29e518c136e78d735255c5b26abdc6b4cff69976459a14443",
+  "operations": [
+    {
+      "removeTable": {
+        "table": "quiz"
+      }
+    }
+  ]
+}
