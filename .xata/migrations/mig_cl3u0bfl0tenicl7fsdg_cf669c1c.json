@@ -1,0 +1,16 @@
+{
+  "id": "mig_cl3u0bfl0tenicl7fsdg",
+  "parentID": "mig_cl3tu43um6hhlduqgvng",
+  "checksum": "1:cf669c1c527786be906292a9b217e582c50e403cb4caa9910a14bc99a48edd08",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "language",
+          "type": "string"
+        },
+        "table": "questions"
+      }
+    }
+  ]
+}

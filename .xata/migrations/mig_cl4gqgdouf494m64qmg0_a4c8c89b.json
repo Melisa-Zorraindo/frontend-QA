@@ -1,0 +1,13 @@
+{
+  "id": "mig_cl4gqgdouf494m64qmg0",
+  "parentID": "mig_cl4gpptouf494m64qmf0",
+  "checksum": "1:a4c8c89b3d8b076e40b5991809fd8fd29c8594225a346d8e9f524831f4454d23",
+  "operations": [
+    {
+      "renameTable": {
+        "newName": "quiz",
+        "oldName": "Questions"
+      }
+    }
+  ]
+}

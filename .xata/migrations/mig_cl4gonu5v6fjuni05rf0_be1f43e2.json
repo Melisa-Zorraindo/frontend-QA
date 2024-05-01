@@ -1,0 +1,57 @@
+{
+  "id": "mig_cl4gonu5v6fjuni05rf0",
+  "parentID": "mig_cl4gmru5v6fjuni05rdg",
+  "checksum": "1:be1f43e225fc54279ffdf82e111cda72ef0a6e9669f08b682c94fe3842a52aa2",
+  "operations": [
+    {
+      "addTable": {
+        "table": "test"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "language",
+          "type": "string"
+        },
+        "table": "test"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "prompt",
+          "type": "string"
+        },
+        "table": "test"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "explanation",
+          "type": "text"
+        },
+        "table": "test"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "choices",
+          "type": "multiple"
+        },
+        "table": "test"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "correct_choice",
+          "type": "string"
+        },
+        "table": "test"
+      }
+    }
+  ]
+}
