@@ -5,6 +5,7 @@ A set of multiple-choice questions in the field of Frontend Development. Each qu
 The API is hosted on [RAPIDAPI](https://rapidapi.com/Melisa-Zorraindo/api/frontend-qa) and offers a free tier.
 
 ## Table of Contents
+
 - [Installation](#installation)
 - [Usage](#usage)
 - [Requests](#requests)
@@ -15,25 +16,32 @@ The API is hosted on [RAPIDAPI](https://rapidapi.com/Melisa-Zorraindo/api/fronte
 ## Installation
 
 1. Clone the repository
+
 ```bash
 git clone https://github.com/Melisa-Zorraindo/frontend-QA.git
 ```
 
 2. Install the dependencies
+
 ```bash
 npm install
 ```
 
 3. Start the development server
+
 ```bash
 npm run start:dev
 ```
 
-To get access to the database, get in touch with me so I can add you to my workspace on [Xata](https://xata.io/).
+4. Set up the database
+
+```bash
+xata schema dump -f schema.json
+```
 
 ## Usage
 
-This API can be utilized to create quizzes or interactive learning experiences. It can also serve as a resource for programming tutorials or be used to build assessment tools for evaluating knowledge and understanding of web development concepts.
+This API can be utilised to create quizzes or interactive learning experiences. It can also serve as a resource for programming tutorials or be used to build assessment tools for evaluating knowledge and understanding of web development concepts.
 
 ## Requests
 
@@ -71,9 +79,7 @@ Contributors are welcome!
 
 If you encounter any issues, notice any mistakes in the questions, or would like to make a request, please [open an issue](https://github.com/Melisa-Zorraindo/frontend-QA/issues).
 
-If you wish to contribute to the codebase, please follow the installation guide.
-
-If you wish to contribute questions to the database, please get in touch with me so I can add you to my workspace in [Xata](https://xata.io/).
+If you wish to contribute to the codebase or add new questions to the database, please follow the installation guide.
 
 ## Contact
 
