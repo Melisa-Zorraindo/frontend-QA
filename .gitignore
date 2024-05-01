@@ -3,4 +3,4 @@ build
 .env
 src/xata.ts
 .xatarc
-.xata
+/.xata
