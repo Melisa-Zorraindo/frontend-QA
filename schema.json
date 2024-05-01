@@ -1,0 +1,29 @@
+{
+  "tables": [
+    {
+      "name": "Questions",
+      "columns": [
+        {
+          "name": "language",
+          "type": "string"
+        },
+        {
+          "name": "prompt",
+          "type": "string"
+        },
+        {
+          "name": "explanation",
+          "type": "text"
+        },
+        {
+          "name": "choices",
+          "type": "multiple"
+        },
+        {
+          "name": "correct_choice",
+          "type": "string"
+        }
+      ]
+    }
+  ]
+}
